@@ -21,6 +21,12 @@ I am a student at the Moscow International College "Top Academy" majoring in inf
          <td align="center"><img src="https://skillicons.dev/icons?i=flask" alt="flask"><br>flask</td>
     </tr>
 </table>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zernovga&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zernovga&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zernovga&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
 <img alt="Static Badge" src="https://img.shields.io/badge/python">
 - 🔭 I’m currently working on ...
