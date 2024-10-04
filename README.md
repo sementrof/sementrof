@@ -6,6 +6,7 @@ I am a third year student at the Moscow International College "Academy Top". pre
 <img alt="Static Badge" src="https://img.shields.io/badge/python">
 # :books: Technologies
 > I use or learn this technologies now
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <table>
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"><br>Bash</td>
