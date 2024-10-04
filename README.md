@@ -1,7 +1,6 @@
 # 💫 About Me:
-I am a third year student at the Moscow International College "Academy Top". previously studied at IT College at Sirius University
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+I am a student at the Moscow International College "Top Academy" majoring in information systems and programming. previously studied at IT College at Sirius University
 
 # 💻 Tech Stack:
 <table>
