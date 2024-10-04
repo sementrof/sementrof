@@ -1,6 +1,9 @@
-## Hi there 👋
+# 💫 About Me:
+I am a third year student at the Moscow International College "Academy Top". previously studied at IT College at Sirius University
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
+<img alt="Static Badge" src="https://img.shields.io/badge/python">
 **sementrof/sementrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
