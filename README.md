@@ -8,7 +8,6 @@ I am a student at the Moscow International College "Top Academy" majoring in inf
         <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"><br>Bash</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python"><br>Python</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"><br>FastAPI</td>
-         <td align="center"><img src="https://skillicons.dev/icons?i=flask" alt="flask"><br>flask</td>
     </tr>
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"><br>Git</td>
@@ -18,7 +17,7 @@ I am a student at the Moscow International College "Top Academy" majoring in inf
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"><br>SQLite</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br>PostgreSQL</td>
-        <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"><br>MongoDB</td>
+         <td align="center"><img src="https://skillicons.dev/icons?i=flask" alt="flask"><br>flask</td>
     </tr>
 </table>
 <!--
