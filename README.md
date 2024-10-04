@@ -12,10 +12,10 @@ I am a student at the Moscow International College "Top Academy" majoring in inf
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"><br>Git</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"><br>Docker</td>
-        <td align="center"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx"><br>Nginx</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=redis" alt=""><br>redis</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"><br>SQLite</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="postman"><br>postman</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br>PostgreSQL</td>
          <td align="center"><img src="https://skillicons.dev/icons?i=flask" alt="flask"><br>flask</td>
     </tr>
