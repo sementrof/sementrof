@@ -8,6 +8,8 @@ I am a student at the Moscow International College "Top Academy" majoring in inf
         <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"><br>Bash</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python"><br>Python</td>
         <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"><br>FastAPI</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i= django" alt=" django"><br> Django</td>
+        django
     </tr>
     <tr>
         <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"><br>Git</td>
